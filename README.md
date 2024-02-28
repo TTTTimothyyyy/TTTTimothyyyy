@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 View my **Game Dev Portfolio: [here](https://beyondofficial.wixsite.com/timothy-dunn-game-de)**
+ 🔭 View my projects in my **Game Dev Portfolio [here](https://beyondofficial.wixsite.com/timothy-dunn-game-de/s-projects-side-by-side)**
 
 💬 Ask me about **Unity Game Dev, C#, Blender... or anything [here](https://github.com/TTTTimothyyyy/TTTTimothyyyy/issues)**
 
@@ -26,7 +26,7 @@
     <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://beyondofficial.wixsite.com/timothy-dunn-game-de" target="_blank">
-     <img alt="open my github.io" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
