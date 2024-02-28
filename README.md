@@ -34,16 +34,31 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>-->
+<h2 align="center">⚒️ Skills and Tools ⚒️</h2>
 <br/>
 <div align="center">
-<!--<p align="center">-->
   <a href="https://skillicons.dev">
-    <img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /><br>
-    <img alt="framworks and tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,postman,androidstudio,githubactions" />
+    <h3> Proficient </h3>
+      <ul>
+          <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></li>
+          <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></li>
+      </ul>
+      <br>
+    <h3> Learning and Improving </h3>
+      <ul>
+          <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /></li>
+          <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions" /></li>
+      </ul>
+      <br>
+    <h3> Want to Learn </h3>
+      <ul>
+          <li><img alt="languages" src="https://skillicons.dev/icons?i=javascript" /></li>
+          <li><img alt="Tools" src="https://skillicons.dev/icons?i=postman,androidstudio" /></li>
+      </ul>
+      <br>
   </a>
 </div>
-<!--</p>-->
 
 
 <!-- <div align="center">
@@ -63,7 +78,7 @@
   <br/><br/><br/>
 </div>
 
-<!-- 
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -83,6 +98,6 @@
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div> -->
+</div>
 
 <br/>
