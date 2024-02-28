@@ -47,7 +47,7 @@
     <h3> Learning and Improving </h3><br>
       <ul>
           <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /></p>
-          <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions" /></p>
+          <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions,azure" /></p>
       </ul>
       <br>
     <h3> Want to Learn </h3><br>
