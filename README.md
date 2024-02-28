@@ -41,19 +41,19 @@
     <h3> proficiencies </h3><br>
       <ul>
           <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p> <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></p>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /> <img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></p>
       </ul>
       <br>
     <h3> Learning and Improving </h3><br>
       <ul>
           <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,python" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,python" /></p> <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,azure,ai,ps,pr" /></p>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,python" /> <img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,azure,ai,ps,pr" /></p>
       </ul>
       <br>
     <h3> Light Experience and Want to Learn </h3><br>
       <ul>
           <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /></p> <p><img alt="Tools" src="https://skillicons.dev/icons?i=githubactions,stackoverflow,ae,postman,androidstudio,unreal,wordpress,aws,jira" /></p>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /> <img alt="Tools" src="https://skillicons.dev/icons?i=githubactions,stackoverflow,ae,postman,androidstudio,unreal,wordpress,aws,jira" /></p>
       </ul>
       <br>
   </a>
