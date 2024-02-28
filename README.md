@@ -40,19 +40,19 @@
 <div align="center">
   <a href="https://skillicons.dev">
       <br>
-    <h3> Proficient </h3>
+    <h3> Proficient </h3><br>
       <ul>
           <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></li>
           <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></li>
       </ul>
       <br>
-    <h3> Learning and Improving </h3>
+    <h3> Learning and Improving </h3><br>
       <ul>
           <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /></li>
           <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions" /></li>
       </ul>
       <br>
-    <h3> Want to Learn </h3>
+    <h3> Want to Learn </h3><br>
       <ul>
           <li><img alt="languages" src="https://skillicons.dev/icons?i=javascript" /></li>
           <li><img alt="Tools" src="https://skillicons.dev/icons?i=postman,androidstudio" /></li>
