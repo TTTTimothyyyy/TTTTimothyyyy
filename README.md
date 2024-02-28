@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Dunn!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from New Zealand NZ & South Africa ZA</h3>
+<h3 align="center">A passionate software developer from New Zealand <h4>NZ</h4> & South Africa <h4>ZA</h4></h3>
 
 <br/>
 
@@ -36,10 +36,19 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" />
+    <img alt="framworks and tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,postman,androidstudio,githubactions" />
+  </a>
+</p>
+
+
+<!-- <div align="center">
     <img alt="languages" src="https://skillicons.dev/icons?i=CS,HTML,CSS,Kotlin-Dark,Python-Dark" />
     <img alt="framworks and tools" src="https://skillicons.dev/icons?i=Unity-Dark,Blender-Dark,VisualStudio-Dark,VSCode-Dark,Github-Dark,Postman,AndroidStudio-Dark,GithubActions-Dark" /><br>
 </div>
+-->
 
 <br/>
 <hr/>
