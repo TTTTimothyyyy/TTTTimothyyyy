@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Dunn!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from New Zealand <h4>NZ</h4> & South Africa <h4>ZA</h4></h3>
+<h3 align="center">A passionate software developer from New Zealand & South Africa</h3>
 
 <br/>
 
