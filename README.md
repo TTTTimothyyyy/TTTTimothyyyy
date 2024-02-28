@@ -39,7 +39,7 @@
 <div align="center">
 <!--<p align="center">-->
   <a href="https://skillicons.dev">
-    <img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" />
+    <img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /><br>
     <img alt="framworks and tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,postman,androidstudio,githubactions" />
   </a>
 </div>
