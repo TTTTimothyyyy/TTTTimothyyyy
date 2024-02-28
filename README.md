@@ -37,7 +37,6 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-      <br>
     <h3> proficiencies </h3><br>
       <ul>
           <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p>-->
