@@ -43,19 +43,19 @@
     <h3> proficiencies </h3><br>
       <ul>
           <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p>
-          <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></li>
+          <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></p>
       </ul>
       <br>
     <h3> Learning and Improving </h3><br>
       <ul>
-          <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /></li>
-          <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions" /></li>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" /></p>
+          <p><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,githubactions" /></p>
       </ul>
       <br>
     <h3> Want to Learn </h3><br>
       <ul>
-          <li><img alt="languages" src="https://skillicons.dev/icons?i=javascript" /></li>
-          <li><img alt="Tools" src="https://skillicons.dev/icons?i=postman,androidstudio" /></li>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript" /></p>
+          <p><img alt="Tools" src="https://skillicons.dev/icons?i=postman,androidstudio" /></p>
       </ul>
       <br>
   </a>
