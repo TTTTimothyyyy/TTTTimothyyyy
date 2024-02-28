@@ -36,12 +36,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<p align="center">
+<div align="center">
+<!--<p align="center">-->
   <a href="https://skillicons.dev">
     <img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,kotlin,python" />
     <img alt="framworks and tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,postman,androidstudio,githubactions" />
   </a>
-</p>
+</div>
+<!--</p>-->
 
 
 <!-- <div align="center">
