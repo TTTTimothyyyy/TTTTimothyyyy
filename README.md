@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Unity project**
- 
- 🌱 I’m currently learning **Python, Azure Fundamentals, Unity Shader Graph**
+ 🔭 View my **Game Dev Portfolio: [here](https://beyondofficial.wixsite.com/timothy-dunn-game-de)**
 
 💬 Ask me about **Unity Game Dev, C#, Blender... or anything [here](https://github.com/TTTTimothyyyy/TTTTimothyyyy/issues)**
 
