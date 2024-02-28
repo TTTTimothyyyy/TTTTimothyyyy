@@ -42,7 +42,7 @@
       <br>
     <h3> proficiencies </h3><br>
       <ul>
-          <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></li>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p>
           <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></li>
       </ul>
       <br>
