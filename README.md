@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
       <br>
-    <h3> Proficient </h3><br>
+    <h3> proficiencies </h3><br>
       <ul>
           <li><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></li>
           <li><img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></li>
