@@ -52,7 +52,7 @@
     <h3> Light Experience and Want to Learn </h3><br>
       <ul>
           <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /> <img alt="Tools" src="https://skillicons.dev/icons?i=githubactions,stackoverflow,ae,postman,androidstudio,unreal,wordpress,aws,jira" /></p>
+          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /> <img alt="Tools" src="https://skillicons.dev/icons?i=tensorflow,githubactions,stackoverflow,ae,postman,androidstudio,unreal,wordpress,aws,jira" /></p>
       </ul>
       <br>
   </a>
