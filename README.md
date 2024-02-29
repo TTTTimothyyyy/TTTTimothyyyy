@@ -26,7 +26,7 @@
     <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://beyondofficial.wixsite.com/timothy-dunn-game-de" target="_blank">
-     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-00b38f?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
