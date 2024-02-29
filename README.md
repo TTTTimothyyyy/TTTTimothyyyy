@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:timothytylerdunn@gmail.com">
-    <img alt="send me an email" src="https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="send me an email" src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/timothy-dunn-055657199/" target="_blank">
     <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
