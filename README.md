@@ -20,13 +20,13 @@
  
 <div align="center"> 
   <a href="mailto:timothytylerdunn@gmail.com">
-    <img alt="send me an email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img alt="send me an email" src="https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/timothy-dunn-055657199/" target="_blank">
-    <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://beyondofficial.wixsite.com/timothy-dunn-game-de" target="_blank">
-     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-00b38f?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-00b38f?style=for-the-badge&logo=box&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
