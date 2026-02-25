@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 View my projects in my **Game Dev Portfolio [here](https://beyondofficial.wixsite.com/timothy-dunn-game-de/s-projects-side-by-side)**
+ 🔭 View my projects in my **Profesional Portfolio [here](https://timothydunnportfolio.com/)**
 
 💬 Ask me about **Unity Game Dev, C#, Blender... or anything [here](https://github.com/TTTTimothyyyy/TTTTimothyyyy/issues)**
 
