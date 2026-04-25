@@ -1,104 +1,133 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TTTTimothyyyy.TTTTimothyyyy" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Dunn!;" />
-</h1>
+# Timothy Dunn
 
-<h3 align="center">A passionate software developer from New Zealand & South Africa</h3>
+### Full Stack Indie Game Developer • Asset Creator • Product Builder
 
-<br/>
+<p>
+  <a href="https://github.com/TTTTimothyyyy">
+    <img src="https://img.shields.io/badge/GitHub-TTTTimothyyyy-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://timothydunnportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-timothydunnportfolio.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Game%20Dev%20%26%20Tools-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20%26%20Scaling-7C3AED?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+practical+products+for+gamers+and+creators;Shipping+tools%2C+games%2C+and+community-first+experiences;Focused+on+quality%2C+clarity%2C+and+consistent+execution" alt="Typing animation" />
+</p>
+
+</div>
+
+---
+
+## About
+
+I build practical software and game-focused products with a strong emphasis on real user value, clean systems, and consistent shipping.
+
+My current work blends:
+- Full stack development
+- Indie game development workflows
+- Community-driven devlogs and product iteration
+
+---
+
+## Product Lineup
+
+### Pro Performance Optimizer (PPO)
+
+A Windows optimization product for gamers and productivity-focused users.
+
+<p>
+  <img src="https://img.shields.io/badge/PPO--Basic-Plug%20%26%20Play-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/PPO--Expert-Full%20Control-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Planned-Steam%20%26%20Microsoft%20Store-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Target-On%20or%20Before%20Q4-EC4899?style=flat-square" />
+</p>
+
+- PPO-Basic: built for gamers and light users who want a plug-and-play experience with practical customization.
+- PPO-Expert: built for gamers and heavy workflow users who want advanced controls, deeper diagnostics, and precision tuning.
+
+---
+
+## Portfolio and Community
+
+### Timothydunnportfolio.com
+
+[Visit the website](https://timothydunnportfolio.com)
+
+<p>
+  <img src="https://img.shields.io/badge/Showcases-Full%20Stack%20Game%20Dev-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Includes-Projects%20%26%20Devlogs-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Community-Like%20Comment%20Engage-8B5CF6?style=flat-square" />
+</p>
+
+The platform highlights my projects, skills, and blog ecosystem where users can sign up, engage with devlogs, and follow ongoing development.  
+This community-first approach supports long-term audience growth ahead of future game launches and Steam wishlist goals.
+
+---
+
+## Tool Skillset
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2100&pause=550&color=22C55E&center=true&vCenter=true&repeat=true&width=980&lines=Tool+Carousel+%E2%80%A2+GitHub+Copilot+%E2%80%A2+GitHub+%E2%80%A2+Git+%E2%80%A2+VS+Code+%E2%80%A2+Visual+Studio;Tool+Carousel+%E2%80%A2+Unity+%E2%80%A2+Blender+%E2%80%A2+DirectX+%E2%80%A2+HLSL+%E2%80%A2+Postman+%E2%80%A2+Azure;Tool+Carousel+%E2%80%A2+Photoshop+%E2%80%A2+Illustrator+%E2%80%A2+FL+Studio+%E2%80%A2+Game+Dev+Pipelines" alt="Infinite tool carousel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-111827?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Source%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-Game%20Engine-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-3D%20Creation-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectX-Graphics%20Programming-0F6CBD?style=flat-square" />
+  <img src="https://img.shields.io/badge/HLSL-Shader%20Authoring-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Photoshop-Design-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-Vector%20Design-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL%20Studio-Audio%20Production-FF6A00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+Clean, practical stack across software engineering, game development, graphics, and content production.
+
+---
+
+## Dunn Digital (Quiet Build Phase)
+
+<p>
+  <img src="https://img.shields.io/badge/Dunn%20Digital-Private%20Sole%20Holder-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Trial%20%26%20Reputation%20Building-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Tools%20for%20Educators-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regions-South%20Africa%20%26%20New%20Zealand-334155?style=flat-square" />
+</p>
+
+I am currently validating this direction quietly and focusing on trust, quality delivery, and real-world usefulness rather than hype.
+
+---
+
+## Current Priorities
+
+- Ship stable, user-first software products
+- Grow an authentic devlog and builder community
+- Prepare future game launches with stronger foundations
+
+---
+
+## Connect
+
+<p>
+  <a href="https://timothydunnportfolio.com">
+    <img src="https://img.shields.io/badge/Website-Visit-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/TTTTimothyyyy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
- 
- 🔭 View my projects in my **Profesional Portfolio [here](https://timothydunnportfolio.com/)**
-
-💬 Ask me about **Unity Game Dev, C#, Blender... or anything [here](https://github.com/TTTTimothyyyy/TTTTimothyyyy/issues)**
-
-⚡ Fun fact **The Python coding language is not named after the snake, but after Monty Python's Flying Circus**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:timothytylerdunn@gmail.com">
-    <img alt="send me an email" src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/timothy-dunn-055657199/" target="_blank">
-    <img alt="open my linkedIn profile" src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://beyondofficial.wixsite.com/timothy-dunn-game-de" target="_blank">
-     <img alt="open my game dev portfolio" src="https://img.shields.io/badge/Portfolio-00b38f?style=for-the-badge&logo=coop&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=TTTTimothyyyy&style=flat-square&color=0ea5e9" alt="Profile views" />
 </div>
-
- <hr/>
- 
-<!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>-->
-<h2 align="center">🛠️ Skills and Tools 🛠️</h2>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <h3> proficiencies </h3><br>
-      <ul>
-          <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css" /> <img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github" /></p>
-      </ul>
-      <br>
-    <h3> Learning and Improving </h3><br>
-      <ul>
-          <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,python" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=cs,html,css,python" /> <img alt="Tools" src="https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,github,azure,ai,ps,pr" /></p>
-      </ul>
-      <br>
-    <h3> Light Experience and Want to Learn </h3><br>
-      <ul>
-          <!--<p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /></p>-->
-          <p><img alt="languages" src="https://skillicons.dev/icons?i=javascript,kotlin" /> <img alt="Tools" src="https://skillicons.dev/icons?i=tensorflow,githubactions,stackoverflow,ae,postman,androidstudio,unreal,wordpress,aws,jira" /></p>
-      </ul>
-      <br>
-  </a>
-</div>
-
-
-<!-- <div align="center">
-    <img alt="languages" src="https://skillicons.dev/icons?i=CS,HTML,CSS,Kotlin-Dark,Python-Dark" />
-    <img alt="framworks and tools" src="https://skillicons.dev/icons?i=Unity-Dark,Blender-Dark,VisualStudio-Dark,VSCode-Dark,Github-Dark,Postman,AndroidStudio-Dark,GithubActions-Dark" /><br>
-</div>
--->
-
-<br/>
-<!--
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TTTTimothyyyy/TTTTimothyyyy/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-TTTTimothyyyy.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-TTTTimothyyyy.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-TTTTimothyyyy.vercel.app/api/top-langs/?username=TTTTimothyyyy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> 
-
-<br/><br/>
--->
-<!--
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
--->
