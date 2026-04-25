@@ -72,7 +72,7 @@ This community-first approach supports long-term audience growth ahead of future
 ## Tool Skillset
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TTTTimothyyyy/TTTTimothyyyy/main/assets/skills-carousel.svg" alt="Skills carousel" />
+  <img src="https://raw.githubusercontent.com/TTTTimothyyyy/TTTTimothyyyy/main/assets/skills-carousel.svg?v=3" alt="Skills carousel" />
 </p>
 
 Clean, practical stack across software engineering, game development, graphics, and content production.
