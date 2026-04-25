@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=700&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+practical+products+for+gamers+and+creators;Shipping+tools%2C+games%2C+and+community-first+experiences;Focused+on+quality%2C+clarity%2C+and+consistent+execution" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=2100&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+practical+products+for+gamers+and+creators;Shipping+tools%2C+games%2C+and+community-first+experiences;Focused+on+quality%2C+clarity%2C+and+consistent+execution" alt="Typing animation" />
 </p>
 
 </div>
