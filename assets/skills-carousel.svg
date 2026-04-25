@@ -1,66 +1,98 @@
-<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scrolling skills carousel">
-  <rect width="1200" height="70" fill="transparent"/>
+<svg width="1200" height="72" viewBox="0 0 1200 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scrolling skills carousel">
   <defs>
     <style>
-      .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; }
-      .chip-dark { fill: #111827; }
-      .chip-blue { fill: #2563eb; }
-      .chip-orange { fill: #ea580c; }
-      .chip-cyan { fill: #0891b2; }
-      .chip-violet { fill: #6d28d9; }
+      .t { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; dominant-baseline: middle; }
+      .dark { fill: #111827; }
+      .blue { fill: #2563eb; }
+      .orange { fill: #ea580c; }
+      .cyan { fill: #0891b2; }
+      .violet { fill: #6d28d9; }
     </style>
-    <linearGradient id="fadeLeft" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
       <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="fadeRight" x1="1" y1="0" x2="0" y2="0">
+    <linearGradient id="fadeR" x1="1" y1="0" x2="0" y2="0">
       <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
       <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <g>
-    <g transform="translate(0,0)">
-      <g transform="translate(0,12)">
-        <rect class="chip-dark" x="0" y="0" rx="8" ry="8" width="165" height="34"/><text class="label" x="16" y="22">GitHub Copilot</text>
-        <rect class="chip-dark" x="180" y="0" rx="8" ry="8" width="105" height="34"/><text class="label" x="196" y="22">GitHub</text>
-        <rect class="chip-orange" x="300" y="0" rx="8" ry="8" width="70" height="34"/><text class="label" x="322" y="22">Git</text>
-        <rect class="chip-blue" x="385" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="405" y="22">VS Code</text>
-        <rect class="chip-violet" x="495" y="0" rx="8" ry="8" width="130" height="34"/><text class="label" x="512" y="22">Visual Studio</text>
-        <rect class="chip-dark" x="640" y="0" rx="8" ry="8" width="85" height="34"/><text class="label" x="660" y="22">Unity</text>
-        <rect class="chip-orange" x="740" y="0" rx="8" ry="8" width="100" height="34"/><text class="label" x="760" y="22">Blender</text>
-        <rect class="chip-blue" x="855" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="875" y="22">DirectX</text>
-        <rect class="chip-blue" x="965" y="0" rx="8" ry="8" width="75" height="34"/><text class="label" x="986" y="22">HLSL</text>
-        <rect class="chip-cyan" x="1055" y="0" rx="8" ry="8" width="120" height="34"/><text class="label" x="1073" y="22">Photoshop</text>
-        <rect class="chip-orange" x="1190" y="0" rx="8" ry="8" width="120" height="34"/><text class="label" x="1208" y="22">Illustrator</text>
-        <rect class="chip-orange" x="1325" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="1345" y="22">FL Studio</text>
-        <rect class="chip-orange" x="1435" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="1455" y="22">Postman</text>
-        <rect class="chip-blue" x="1545" y="0" rx="8" ry="8" width="80" height="34"/><text class="label" x="1566" y="22">Azure</text>
-      </g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-820 0" dur="20s" repeatCount="indefinite"/>
-    </g>
+  <!-- Clip viewport so only center strip is visible -->
+  <clipPath id="clip">
+    <rect x="0" y="0" width="1200" height="72"/>
+  </clipPath>
 
-    <g transform="translate(820,0)">
-      <g transform="translate(0,12)">
-        <rect class="chip-dark" x="0" y="0" rx="8" ry="8" width="165" height="34"/><text class="label" x="16" y="22">GitHub Copilot</text>
-        <rect class="chip-dark" x="180" y="0" rx="8" ry="8" width="105" height="34"/><text class="label" x="196" y="22">GitHub</text>
-        <rect class="chip-orange" x="300" y="0" rx="8" ry="8" width="70" height="34"/><text class="label" x="322" y="22">Git</text>
-        <rect class="chip-blue" x="385" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="405" y="22">VS Code</text>
-        <rect class="chip-violet" x="495" y="0" rx="8" ry="8" width="130" height="34"/><text class="label" x="512" y="22">Visual Studio</text>
-        <rect class="chip-dark" x="640" y="0" rx="8" ry="8" width="85" height="34"/><text class="label" x="660" y="22">Unity</text>
-        <rect class="chip-orange" x="740" y="0" rx="8" ry="8" width="100" height="34"/><text class="label" x="760" y="22">Blender</text>
-        <rect class="chip-blue" x="855" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="875" y="22">DirectX</text>
-        <rect class="chip-blue" x="965" y="0" rx="8" ry="8" width="75" height="34"/><text class="label" x="986" y="22">HLSL</text>
-        <rect class="chip-cyan" x="1055" y="0" rx="8" ry="8" width="120" height="34"/><text class="label" x="1073" y="22">Photoshop</text>
-        <rect class="chip-orange" x="1190" y="0" rx="8" ry="8" width="120" height="34"/><text class="label" x="1208" y="22">Illustrator</text>
-        <rect class="chip-orange" x="1325" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="1345" y="22">FL Studio</text>
-        <rect class="chip-orange" x="1435" y="0" rx="8" ry="8" width="95" height="34"/><text class="label" x="1455" y="22">Postman</text>
-        <rect class="chip-blue" x="1545" y="0" rx="8" ry="8" width="80" height="34"/><text class="label" x="1566" y="22">Azure</text>
+  <g clip-path="url(#clip)">
+    <!--
+      One strip width = 2012px exactly.
+      Second strip starts at +2012 so there is no collision or gap.
+    -->
+    <g transform="translate(0 0)">
+      <!-- strip A -->
+      <g transform="translate(0 0)">
+        <rect class="orange" x="0" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="35" y="35" text-anchor="middle">Blender</text>
+        <rect class="dark" x="82" y="20" rx="7" ry="7" width="128" height="30"/><text class="t" x="146" y="35" text-anchor="middle">GitHub Copilot</text>
+        <rect class="dark" x="222" y="20" rx="7" ry="7" width="76" height="30"/><text class="t" x="260" y="35" text-anchor="middle">GitHub</text>
+        <rect class="orange" x="310" y="20" rx="7" ry="7" width="50" height="30"/><text class="t" x="335" y="35" text-anchor="middle">Git</text>
+        <rect class="blue" x="372" y="20" rx="7" ry="7" width="78" height="30"/><text class="t" x="411" y="35" text-anchor="middle">VS Code</text>
+        <rect class="violet" x="462" y="20" rx="7" ry="7" width="104" height="30"/><text class="t" x="514" y="35" text-anchor="middle">Visual Studio</text>
+        <rect class="dark" x="578" y="20" rx="7" ry="7" width="62" height="30"/><text class="t" x="609" y="35" text-anchor="middle">Unity</text>
+        <rect class="orange" x="652" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="687" y="35" text-anchor="middle">Blender</text>
+        <rect class="blue" x="734" y="20" rx="7" ry="7" width="72" height="30"/><text class="t" x="770" y="35" text-anchor="middle">DirectX</text>
+        <rect class="blue" x="818" y="20" rx="7" ry="7" width="58" height="30"/><text class="t" x="847" y="35" text-anchor="middle">HLSL</text>
+        <rect class="cyan" x="888" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="934" y="35" text-anchor="middle">Photoshop</text>
+        <rect class="orange" x="992" y="20" rx="7" ry="7" width="88" height="30"/><text class="t" x="1036" y="35" text-anchor="middle">Illustrator</text>
+        <rect class="orange" x="1092" y="20" rx="7" ry="7" width="76" height="30"/><text class="t" x="1130" y="35" text-anchor="middle">FL Studio</text>
+        <rect class="orange" x="1180" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="1215" y="35" text-anchor="middle">Postman</text>
+        <rect class="blue" x="1262" y="20" rx="7" ry="7" width="64" height="30"/><text class="t" x="1294" y="35" text-anchor="middle">Azure</text>
+        <rect class="dark" x="1338" y="20" rx="7" ry="7" width="82" height="30"/><text class="t" x="1379" y="35" text-anchor="middle">C# / .NET</text>
+        <rect class="blue" x="1432" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1475" y="35" text-anchor="middle">WPF / XAML</text>
+        <rect class="dark" x="1530" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="1576" y="35" text-anchor="middle">Game Design</text>
+        <rect class="orange" x="1634" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1677" y="35" text-anchor="middle">3D Modeling</text>
+        <rect class="cyan" x="1732" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1775" y="35" text-anchor="middle">Animation</text>
+        <rect class="blue" x="1830" y="20" rx="7" ry="7" width="78" height="30"/><text class="t" x="1869" y="35" text-anchor="middle">DirectX</text>
+        <rect class="dark" x="1920" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="1966" y="35" text-anchor="middle">Workflow Dev</text>
       </g>
-      <animateTransform attributeName="transform" type="translate" from="820 0" to="0 0" dur="20s" repeatCount="indefinite"/>
+
+      <!-- strip B (exact duplicate, offset by exact strip width = 2012) -->
+      <g transform="translate(2012 0)">
+        <rect class="orange" x="0" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="35" y="35" text-anchor="middle">Blender</text>
+        <rect class="dark" x="82" y="20" rx="7" ry="7" width="128" height="30"/><text class="t" x="146" y="35" text-anchor="middle">GitHub Copilot</text>
+        <rect class="dark" x="222" y="20" rx="7" ry="7" width="76" height="30"/><text class="t" x="260" y="35" text-anchor="middle">GitHub</text>
+        <rect class="orange" x="310" y="20" rx="7" ry="7" width="50" height="30"/><text class="t" x="335" y="35" text-anchor="middle">Git</text>
+        <rect class="blue" x="372" y="20" rx="7" ry="7" width="78" height="30"/><text class="t" x="411" y="35" text-anchor="middle">VS Code</text>
+        <rect class="violet" x="462" y="20" rx="7" ry="7" width="104" height="30"/><text class="t" x="514" y="35" text-anchor="middle">Visual Studio</text>
+        <rect class="dark" x="578" y="20" rx="7" ry="7" width="62" height="30"/><text class="t" x="609" y="35" text-anchor="middle">Unity</text>
+        <rect class="orange" x="652" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="687" y="35" text-anchor="middle">Blender</text>
+        <rect class="blue" x="734" y="20" rx="7" ry="7" width="72" height="30"/><text class="t" x="770" y="35" text-anchor="middle">DirectX</text>
+        <rect class="blue" x="818" y="20" rx="7" ry="7" width="58" height="30"/><text class="t" x="847" y="35" text-anchor="middle">HLSL</text>
+        <rect class="cyan" x="888" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="934" y="35" text-anchor="middle">Photoshop</text>
+        <rect class="orange" x="992" y="20" rx="7" ry="7" width="88" height="30"/><text class="t" x="1036" y="35" text-anchor="middle">Illustrator</text>
+        <rect class="orange" x="1092" y="20" rx="7" ry="7" width="76" height="30"/><text class="t" x="1130" y="35" text-anchor="middle">FL Studio</text>
+        <rect class="orange" x="1180" y="20" rx="7" ry="7" width="70" height="30"/><text class="t" x="1215" y="35" text-anchor="middle">Postman</text>
+        <rect class="blue" x="1262" y="20" rx="7" ry="7" width="64" height="30"/><text class="t" x="1294" y="35" text-anchor="middle">Azure</text>
+        <rect class="dark" x="1338" y="20" rx="7" ry="7" width="82" height="30"/><text class="t" x="1379" y="35" text-anchor="middle">C# / .NET</text>
+        <rect class="blue" x="1432" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1475" y="35" text-anchor="middle">WPF / XAML</text>
+        <rect class="dark" x="1530" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="1576" y="35" text-anchor="middle">Game Design</text>
+        <rect class="orange" x="1634" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1677" y="35" text-anchor="middle">3D Modeling</text>
+        <rect class="cyan" x="1732" y="20" rx="7" ry="7" width="86" height="30"/><text class="t" x="1775" y="35" text-anchor="middle">Animation</text>
+        <rect class="blue" x="1830" y="20" rx="7" ry="7" width="78" height="30"/><text class="t" x="1869" y="35" text-anchor="middle">DirectX</text>
+        <rect class="dark" x="1920" y="20" rx="7" ry="7" width="92" height="30"/><text class="t" x="1966" y="35" text-anchor="middle">Workflow Dev</text>
+      </g>
+
+      <!-- Smooth infinite scroll -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-2012 0"
+        dur="38s"
+        repeatCount="indefinite" />
     </g>
   </g>
 
-  <rect x="0" y="0" width="48" height="70" fill="url(#fadeLeft)"/>
-  <rect x="1152" y="0" width="48" height="70" fill="url(#fadeRight)"/>
+  <!-- Soft edge fade -->
+  <rect x="0" y="0" width="52" height="72" fill="url(#fadeL)"/>
+  <rect x="1148" y="0" width="52" height="72" fill="url(#fadeR)"/>
 </svg>
