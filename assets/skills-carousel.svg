@@ -1,139 +1,120 @@
-<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Niche-based scrolling skills carousels">
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Niche-based technical skills carousel">
   <defs>
     <style>
-      .title { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #9ca3af; letter-spacing: 0.3px; }
-      .chipText { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; dominant-baseline: middle; }
-      .dark { fill: #111827; }
+      .label { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; letter-spacing: 0.3px; }
+      .txt { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; dominant-baseline: middle; }
+      .slate { fill: #1f2937; }
+      .steel { fill: #334155; }
       .blue { fill: #2563eb; }
-      .orange { fill: #ea580c; }
-      .cyan { fill: #0891b2; }
-      .violet { fill: #6d28d9; }
+      .indigo { fill: #4338ca; }
+      .teal { fill: #0d9488; }
+      .cyan { fill: #06b6d4; }
     </style>
 
-    <clipPath id="trackClip">
-      <rect x="160" y="0" width="1020" height="190" />
+    <clipPath id="clipTrack">
+      <rect x="160" y="0" width="1020" height="190"/>
     </clipPath>
 
     <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
-      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="0" stop-color="#0b1220" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fadeR" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
-      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="0" stop-color="#0b1220" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Static niche labels -->
-  <text class="title" x="16" y="34">DEV TOOLING</text>
-  <text class="title" x="16" y="90">GAME DEVELOPMENT</text>
-  <text class="title" x="16" y="146">CREATIVE + CLOUD</text>
+  <rect x="0" y="0" width="1200" height="190" fill="transparent"/>
 
-  <!-- Row separators -->
+  <text class="label" x="16" y="34">DEV TOOLING</text>
+  <text class="label" x="16" y="90">GAME DEVELOPMENT</text>
+  <text class="label" x="16" y="146">CREATIVE + CLOUD</text>
+
   <line x1="0" y1="56" x2="1200" y2="56" stroke="#1f2937" stroke-width="1"/>
   <line x1="0" y1="112" x2="1200" y2="112" stroke="#1f2937" stroke-width="1"/>
 
-  <g clip-path="url(#trackClip)">
-    <!-- ========================= -->
-    <!-- ROW 1: DEV TOOLING -->
-    <!-- strip width = 1600 -->
-    <!-- ========================= -->
+  <g clip-path="url(#clipTrack)">
+    <!-- ROW 1 -->
     <g transform="translate(160 18)">
-      <!-- strip A -->
       <g transform="translate(0 0)">
-        <rect class="dark"   x="0"   y="0" rx="7" ry="7" width="128" height="30"/><text class="chipText" x="64"  y="15" text-anchor="middle">GitHub Copilot</text>
-        <rect class="dark"   x="140" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="182" y="15" text-anchor="middle">GitHub</text>
-        <rect class="orange" x="236" y="0" rx="7" ry="7" width="58"  height="30"/><text class="chipText" x="265" y="15" text-anchor="middle">Git</text>
-        <rect class="blue"   x="306" y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="352" y="15" text-anchor="middle">VS Code</text>
-        <rect class="violet" x="410" y="0" rx="7" ry="7" width="126" height="30"/><text class="chipText" x="473" y="15" text-anchor="middle">Visual Studio</text>
-        <rect class="dark"   x="548" y="0" rx="7" ry="7" width="86"  height="30"/><text class="chipText" x="591" y="15" text-anchor="middle">C# / .NET</text>
-        <rect class="blue"   x="646" y="0" rx="7" ry="7" width="96"  height="30"/><text class="chipText" x="694" y="15" text-anchor="middle">WPF / XAML</text>
-        <rect class="orange" x="754" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="796" y="15" text-anchor="middle">Postman</text>
-        <rect class="blue"   x="850" y="0" rx="7" ry="7" width="70"  height="30"/><text class="chipText" x="885" y="15" text-anchor="middle">Azure</text>
+        <rect class="slate" x="0" y="0" rx="7" ry="7" width="128" height="30"/><text class="txt" x="64" y="15" text-anchor="middle">GitHub Copilot</text>
+        <rect class="slate" x="140" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="182" y="15" text-anchor="middle">GitHub</text>
+        <rect class="steel" x="236" y="0" rx="7" ry="7" width="58" height="30"/><text class="txt" x="265" y="15" text-anchor="middle">Git</text>
+        <rect class="blue" x="306" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="352" y="15" text-anchor="middle">VS Code</text>
+        <rect class="indigo" x="410" y="0" rx="7" ry="7" width="126" height="30"/><text class="txt" x="473" y="15" text-anchor="middle">Visual Studio</text>
+        <rect class="blue" x="548" y="0" rx="7" ry="7" width="86" height="30"/><text class="txt" x="591" y="15" text-anchor="middle">C# / .NET</text>
+        <rect class="steel" x="646" y="0" rx="7" ry="7" width="96" height="30"/><text class="txt" x="694" y="15" text-anchor="middle">WPF / XAML</text>
+        <rect class="teal" x="754" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="796" y="15" text-anchor="middle">Postman</text>
+        <rect class="cyan" x="850" y="0" rx="7" ry="7" width="70" height="30"/><text class="txt" x="885" y="15" text-anchor="middle">Azure</text>
       </g>
-
-      <!-- strip B -->
-      <g transform="translate(1600 0)">
-        <rect class="dark"   x="0"   y="0" rx="7" ry="7" width="128" height="30"/><text class="chipText" x="64"  y="15" text-anchor="middle">GitHub Copilot</text>
-        <rect class="dark"   x="140" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="182" y="15" text-anchor="middle">GitHub</text>
-        <rect class="orange" x="236" y="0" rx="7" ry="7" width="58"  height="30"/><text class="chipText" x="265" y="15" text-anchor="middle">Git</text>
-        <rect class="blue"   x="306" y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="352" y="15" text-anchor="middle">VS Code</text>
-        <rect class="violet" x="410" y="0" rx="7" ry="7" width="126" height="30"/><text class="chipText" x="473" y="15" text-anchor="middle">Visual Studio</text>
-        <rect class="dark"   x="548" y="0" rx="7" ry="7" width="86"  height="30"/><text class="chipText" x="591" y="15" text-anchor="middle">C# / .NET</text>
-        <rect class="blue"   x="646" y="0" rx="7" ry="7" width="96"  height="30"/><text class="chipText" x="694" y="15" text-anchor="middle">WPF / XAML</text>
-        <rect class="orange" x="754" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="796" y="15" text-anchor="middle">Postman</text>
-        <rect class="blue"   x="850" y="0" rx="7" ry="7" width="70"  height="30"/><text class="chipText" x="885" y="15" text-anchor="middle">Azure</text>
+      <g transform="translate(1680 0)">
+        <rect class="slate" x="0" y="0" rx="7" ry="7" width="128" height="30"/><text class="txt" x="64" y="15" text-anchor="middle">GitHub Copilot</text>
+        <rect class="slate" x="140" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="182" y="15" text-anchor="middle">GitHub</text>
+        <rect class="steel" x="236" y="0" rx="7" ry="7" width="58" height="30"/><text class="txt" x="265" y="15" text-anchor="middle">Git</text>
+        <rect class="blue" x="306" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="352" y="15" text-anchor="middle">VS Code</text>
+        <rect class="indigo" x="410" y="0" rx="7" ry="7" width="126" height="30"/><text class="txt" x="473" y="15" text-anchor="middle">Visual Studio</text>
+        <rect class="blue" x="548" y="0" rx="7" ry="7" width="86" height="30"/><text class="txt" x="591" y="15" text-anchor="middle">C# / .NET</text>
+        <rect class="steel" x="646" y="0" rx="7" ry="7" width="96" height="30"/><text class="txt" x="694" y="15" text-anchor="middle">WPF / XAML</text>
+        <rect class="teal" x="754" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="796" y="15" text-anchor="middle">Postman</text>
+        <rect class="cyan" x="850" y="0" rx="7" ry="7" width="70" height="30"/><text class="txt" x="885" y="15" text-anchor="middle">Azure</text>
       </g>
-
-      <animateTransform attributeName="transform" type="translate" from="160 18" to="-1440 18" dur="44s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="160 18" to="-1520 18" dur="44s" repeatCount="indefinite"/>
     </g>
 
-    <!-- ========================= -->
-    <!-- ROW 2: GAME DEVELOPMENT -->
-    <!-- ========================= -->
+    <!-- ROW 2 -->
     <g transform="translate(160 74)">
-      <!-- strip A -->
       <g transform="translate(0 0)">
-        <rect class="dark"   x="0"   y="0" rx="7" ry="7" width="80"  height="30"/><text class="chipText" x="40"  y="15" text-anchor="middle">Unity</text>
-        <rect class="orange" x="94"  y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="140" y="15" text-anchor="middle">Blender</text>
-        <rect class="blue"   x="200" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="242" y="15" text-anchor="middle">DirectX</text>
-        <rect class="blue"   x="298" y="0" rx="7" ry="7" width="62"  height="30"/><text class="chipText" x="329" y="15" text-anchor="middle">HLSL</text>
-        <rect class="violet" x="374" y="0" rx="7" ry="7" width="112" height="30"/><text class="chipText" x="430" y="15" text-anchor="middle">Shader Graph</text>
-        <rect class="dark"   x="500" y="0" rx="7" ry="7" width="128" height="30"/><text class="chipText" x="564" y="15" text-anchor="middle">Visual Scripting</text>
-        <rect class="cyan"   x="642" y="0" rx="7" ry="7" width="106" height="30"/><text class="chipText" x="695" y="15" text-anchor="middle">Game Design</text>
-        <rect class="orange" x="760" y="0" rx="7" ry="7" width="130" height="30"/><text class="chipText" x="825" y="15" text-anchor="middle">Gameplay Systems</text>
+        <rect class="slate" x="0" y="0" rx="7" ry="7" width="80" height="30"/><text class="txt" x="40" y="15" text-anchor="middle">Unity</text>
+        <rect class="teal" x="94" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="140" y="15" text-anchor="middle">Blender</text>
+        <rect class="blue" x="200" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="242" y="15" text-anchor="middle">DirectX</text>
+        <rect class="indigo" x="298" y="0" rx="7" ry="7" width="62" height="30"/><text class="txt" x="329" y="15" text-anchor="middle">HLSL</text>
+        <rect class="steel" x="374" y="0" rx="7" ry="7" width="112" height="30"/><text class="txt" x="430" y="15" text-anchor="middle">Shader Graph</text>
+        <rect class="slate" x="500" y="0" rx="7" ry="7" width="128" height="30"/><text class="txt" x="564" y="15" text-anchor="middle">Visual Scripting</text>
+        <rect class="cyan" x="642" y="0" rx="7" ry="7" width="106" height="30"/><text class="txt" x="695" y="15" text-anchor="middle">Game Design</text>
+        <rect class="blue" x="760" y="0" rx="7" ry="7" width="130" height="30"/><text class="txt" x="825" y="15" text-anchor="middle">Gameplay Systems</text>
       </g>
-
-      <!-- strip B -->
-      <g transform="translate(1600 0)">
-        <rect class="dark"   x="0"   y="0" rx="7" ry="7" width="80"  height="30"/><text class="chipText" x="40"  y="15" text-anchor="middle">Unity</text>
-        <rect class="orange" x="94"  y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="140" y="15" text-anchor="middle">Blender</text>
-        <rect class="blue"   x="200" y="0" rx="7" ry="7" width="84"  height="30"/><text class="chipText" x="242" y="15" text-anchor="middle">DirectX</text>
-        <rect class="blue"   x="298" y="0" rx="7" ry="7" width="62"  height="30"/><text class="chipText" x="329" y="15" text-anchor="middle">HLSL</text>
-        <rect class="violet" x="374" y="0" rx="7" ry="7" width="112" height="30"/><text class="chipText" x="430" y="15" text-anchor="middle">Shader Graph</text>
-        <rect class="dark"   x="500" y="0" rx="7" ry="7" width="128" height="30"/><text class="chipText" x="564" y="15" text-anchor="middle">Visual Scripting</text>
-        <rect class="cyan"   x="642" y="0" rx="7" ry="7" width="106" height="30"/><text class="chipText" x="695" y="15" text-anchor="middle">Game Design</text>
-        <rect class="orange" x="760" y="0" rx="7" ry="7" width="130" height="30"/><text class="chipText" x="825" y="15" text-anchor="middle">Gameplay Systems</text>
+      <g transform="translate(1680 0)">
+        <rect class="slate" x="0" y="0" rx="7" ry="7" width="80" height="30"/><text class="txt" x="40" y="15" text-anchor="middle">Unity</text>
+        <rect class="teal" x="94" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="140" y="15" text-anchor="middle">Blender</text>
+        <rect class="blue" x="200" y="0" rx="7" ry="7" width="84" height="30"/><text class="txt" x="242" y="15" text-anchor="middle">DirectX</text>
+        <rect class="indigo" x="298" y="0" rx="7" ry="7" width="62" height="30"/><text class="txt" x="329" y="15" text-anchor="middle">HLSL</text>
+        <rect class="steel" x="374" y="0" rx="7" ry="7" width="112" height="30"/><text class="txt" x="430" y="15" text-anchor="middle">Shader Graph</text>
+        <rect class="slate" x="500" y="0" rx="7" ry="7" width="128" height="30"/><text class="txt" x="564" y="15" text-anchor="middle">Visual Scripting</text>
+        <rect class="cyan" x="642" y="0" rx="7" ry="7" width="106" height="30"/><text class="txt" x="695" y="15" text-anchor="middle">Game Design</text>
+        <rect class="blue" x="760" y="0" rx="7" ry="7" width="130" height="30"/><text class="txt" x="825" y="15" text-anchor="middle">Gameplay Systems</text>
       </g>
-
-      <animateTransform attributeName="transform" type="translate" from="160 74" to="-1440 74" dur="36s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="160 74" to="-1520 74" dur="38s" repeatCount="indefinite"/>
     </g>
 
-    <!-- ========================= -->
-    <!-- ROW 3: CREATIVE + CLOUD -->
-    <!-- ========================= -->
+    <!-- ROW 3 -->
     <g transform="translate(160 130)">
-      <!-- strip A -->
       <g transform="translate(0 0)">
-        <rect class="cyan"   x="0"   y="0" rx="7" ry="7" width="102" height="30"/><text class="chipText" x="51"  y="15" text-anchor="middle">Photoshop</text>
-        <rect class="orange" x="116" y="0" rx="7" ry="7" width="104" height="30"/><text class="chipText" x="168" y="15" text-anchor="middle">Illustrator</text>
-        <rect class="orange" x="234" y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="280" y="15" text-anchor="middle">FL Studio</text>
-        <rect class="orange" x="340" y="0" rx="7" ry="7" width="112" height="30"/><text class="chipText" x="396" y="15" text-anchor="middle">3D Modeling</text>
-        <rect class="cyan"   x="466" y="0" rx="7" ry="7" width="90"  height="30"/><text class="chipText" x="511" y="15" text-anchor="middle">Animation</text>
-        <rect class="blue"   x="570" y="0" rx="7" ry="7" width="90"  height="30"/><text class="chipText" x="615" y="15" text-anchor="middle">HTML/CSS</text>
-        <rect class="blue"   x="674" y="0" rx="7" ry="7" width="104" height="30"/><text class="chipText" x="726" y="15" text-anchor="middle">JavaScript</text>
-        <rect class="dark"   x="792" y="0" rx="7" ry="7" width="78"  height="30"/><text class="chipText" x="831" y="15" text-anchor="middle">Python</text>
-        <rect class="violet" x="884" y="0" rx="7" ry="7" width="120" height="30"/><text class="chipText" x="944" y="15" text-anchor="middle">Blog Community</text>
+        <rect class="cyan" x="0" y="0" rx="7" ry="7" width="102" height="30"/><text class="txt" x="51" y="15" text-anchor="middle">Photoshop</text>
+        <rect class="teal" x="116" y="0" rx="7" ry="7" width="104" height="30"/><text class="txt" x="168" y="15" text-anchor="middle">Illustrator</text>
+        <rect class="steel" x="234" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="280" y="15" text-anchor="middle">FL Studio</text>
+        <rect class="blue" x="340" y="0" rx="7" ry="7" width="112" height="30"/><text class="txt" x="396" y="15" text-anchor="middle">3D Modeling</text>
+        <rect class="indigo" x="466" y="0" rx="7" ry="7" width="90" height="30"/><text class="txt" x="511" y="15" text-anchor="middle">Animation</text>
+        <rect class="teal" x="570" y="0" rx="7" ry="7" width="90" height="30"/><text class="txt" x="615" y="15" text-anchor="middle">HTML/CSS</text>
+        <rect class="blue" x="674" y="0" rx="7" ry="7" width="104" height="30"/><text class="txt" x="726" y="15" text-anchor="middle">JavaScript</text>
+        <rect class="slate" x="792" y="0" rx="7" ry="7" width="78" height="30"/><text class="txt" x="831" y="15" text-anchor="middle">Python</text>
+        <rect class="steel" x="884" y="0" rx="7" ry="7" width="124" height="30"/><text class="txt" x="946" y="15" text-anchor="middle">Community Ops</text>
       </g>
-
-      <!-- strip B -->
-      <g transform="translate(1600 0)">
-        <rect class="cyan"   x="0"   y="0" rx="7" ry="7" width="102" height="30"/><text class="chipText" x="51"  y="15" text-anchor="middle">Photoshop</text>
-        <rect class="orange" x="116" y="0" rx="7" ry="7" width="104" height="30"/><text class="chipText" x="168" y="15" text-anchor="middle">Illustrator</text>
-        <rect class="orange" x="234" y="0" rx="7" ry="7" width="92"  height="30"/><text class="chipText" x="280" y="15" text-anchor="middle">FL Studio</text>
-        <rect class="orange" x="340" y="0" rx="7" ry="7" width="112" height="30"/><text class="chipText" x="396" y="15" text-anchor="middle">3D Modeling</text>
-        <rect class="cyan"   x="466" y="0" rx="7" ry="7" width="90"  height="30"/><text class="chipText" x="511" y="15" text-anchor="middle">Animation</text>
-        <rect class="blue"   x="570" y="0" rx="7" ry="7" width="90"  height="30"/><text class="chipText" x="615" y="15" text-anchor="middle">HTML/CSS</text>
-        <rect class="blue"   x="674" y="0" rx="7" ry="7" width="104" height="30"/><text class="chipText" x="726" y="15" text-anchor="middle">JavaScript</text>
-        <rect class="dark"   x="792" y="0" rx="7" ry="7" width="78"  height="30"/><text class="chipText" x="831" y="15" text-anchor="middle">Python</text>
-        <rect class="violet" x="884" y="0" rx="7" ry="7" width="120" height="30"/><text class="chipText" x="944" y="15" text-anchor="middle">Blog Community</text>
+      <g transform="translate(1680 0)">
+        <rect class="cyan" x="0" y="0" rx="7" ry="7" width="102" height="30"/><text class="txt" x="51" y="15" text-anchor="middle">Photoshop</text>
+        <rect class="teal" x="116" y="0" rx="7" ry="7" width="104" height="30"/><text class="txt" x="168" y="15" text-anchor="middle">Illustrator</text>
+        <rect class="steel" x="234" y="0" rx="7" ry="7" width="92" height="30"/><text class="txt" x="280" y="15" text-anchor="middle">FL Studio</text>
+        <rect class="blue" x="340" y="0" rx="7" ry="7" width="112" height="30"/><text class="txt" x="396" y="15" text-anchor="middle">3D Modeling</text>
+        <rect class="indigo" x="466" y="0" rx="7" ry="7" width="90" height="30"/><text class="txt" x="511" y="15" text-anchor="middle">Animation</text>
+        <rect class="teal" x="570" y="0" rx="7" ry="7" width="90" height="30"/><text class="txt" x="615" y="15" text-anchor="middle">HTML/CSS</text>
+        <rect class="blue" x="674" y="0" rx="7" ry="7" width="104" height="30"/><text class="txt" x="726" y="15" text-anchor="middle">JavaScript</text>
+        <rect class="slate" x="792" y="0" rx="7" ry="7" width="78" height="30"/><text class="txt" x="831" y="15" text-anchor="middle">Python</text>
+        <rect class="steel" x="884" y="0" rx="7" ry="7" width="124" height="30"/><text class="txt" x="946" y="15" text-anchor="middle">Community Ops</text>
       </g>
-
-      <animateTransform attributeName="transform" type="translate" from="160 130" to="-1440 130" dur="40s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="160 130" to="-1520 130" dur="42s" repeatCount="indefinite"/>
     </g>
   </g>
 
-  <!-- Edge fades -->
   <rect x="160" y="0" width="48" height="190" fill="url(#fadeL)"/>
   <rect x="1132" y="0" width="48" height="190" fill="url(#fadeR)"/>
 </svg>
