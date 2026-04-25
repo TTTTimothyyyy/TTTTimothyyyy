@@ -71,22 +71,9 @@ This community-first approach supports long-term audience growth ahead of future
 
 ## Tool Skillset
 
-<marquee behavior="scroll" direction="left" scrollamount="7">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-111827?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Source%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-Game%20Engine-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-3D%20Creation-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/DirectX-Graphics%20Programming-0F6CBD?style=flat-square" />
-  <img src="https://img.shields.io/badge/HLSL-Shader%20Authoring-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Photoshop-Design-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-Vector%20Design-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/FL%20Studio-Audio%20Production-FF6A00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-</marquee>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TTTTimothyyyy/TTTTimothyyyy/main/assets/skills-carousel.svg" alt="Skills carousel" />
+</p>
 
 Clean, practical stack across software engineering, game development, graphics, and content production.
 
